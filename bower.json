@@ -1,6 +1,5 @@
 {
   "name": "material-design-icons",
-  "version": "2.0.0",
   "author": "Material Design Authors",
   "description": "Material Design icons by Google",
   "keywords": [
@@ -9,6 +8,6 @@
     "material-design",
     "google"
   ],
-  "license": "CC-BY-4.0",
+  "license": "Apache-2.0",
   "homepage": "http://google.com/design/spec"
 }
